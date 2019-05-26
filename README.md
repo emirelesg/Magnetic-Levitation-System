@@ -76,3 +76,7 @@ References:
 
 ### 4. Configuring Keil uVision
 Eventhough a project file for Keil uVision is provided, it is also important to know to how configure a blank project to work with the Tiva microcontroller and to be able to use the TivaWare libraries. The following can be used as a guide for this: https://www.youtube.com/watch?v=v7tkCF-fZ10
+
+### 5. License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
